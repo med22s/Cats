@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/catsParadise/static/css/main.0d04c816.chunk.css",
+    "main.js": "/catsParadise/static/js/main.9843f624.chunk.js",
+    "main.js.map": "/catsParadise/static/js/main.9843f624.chunk.js.map",
+    "runtime-main.js": "/catsParadise/static/js/runtime-main.43090e96.js",
+    "runtime-main.js.map": "/catsParadise/static/js/runtime-main.43090e96.js.map",
+    "static/css/2.31461e4f.chunk.css": "/catsParadise/static/css/2.31461e4f.chunk.css",
+    "static/js/2.be4edec2.chunk.js": "/catsParadise/static/js/2.be4edec2.chunk.js",
+    "static/js/2.be4edec2.chunk.js.map": "/catsParadise/static/js/2.be4edec2.chunk.js.map",
+    "static/js/3.f19781bb.chunk.js": "/catsParadise/static/js/3.f19781bb.chunk.js",
+    "static/js/3.f19781bb.chunk.js.map": "/catsParadise/static/js/3.f19781bb.chunk.js.map",
+    "index.html": "/catsParadise/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/catsParadise/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.0d04c816.chunk.css.map": "/catsParadise/static/css/main.0d04c816.chunk.css.map",
+    "static/js/2.be4edec2.chunk.js.LICENSE.txt": "/catsParadise/static/js/2.be4edec2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43090e96.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.be4edec2.chunk.js",
+    "static/css/main.0d04c816.chunk.css",
+    "static/js/main.9843f624.chunk.js"
+  ]
+}
